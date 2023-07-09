@@ -5,7 +5,7 @@
 This Kaggle contest focuses on a binary classification problem of predicting the likelihood of a heart attack based on various medical and demographic features of patients. The dataset provided consists of two main files: "train.csv" and "test.csv", containing the training and test sets, respectively. Participants are encouraged to develop machine learning models that can accurately classify patients into two categories: those with a lower chance of a heart attack (target=0) and those with a higher chance of a heart attack (target=1).
 
 # Dataset Features:
-Age: Age of the patient (numerical)
+Age: Age of the patient (numerical) <br>
 Sex: Sex of the patient (categorical: 1 = male, 0 = female)
 exang: Exercise-induced angina (categorical: 1 = yes, 0 = no)
 ca: Number of major vessels (0-3) (numerical)
